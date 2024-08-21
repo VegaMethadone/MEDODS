@@ -94,3 +94,6 @@ ok      medods/internal/logic   1.286s  coverage: 65.4% of statements
 ok      medods/internal/server  (cached)        coverage: 7.4% of statements 
 ok      medods/internal/tokens  (cached)        coverage: 78.6% of statements
 ```
+>Для тестирования  запросов  использовал [*INSOMNIA*](https://docs.insomnia.rest/insomnia/get-started)
+
+![ins](https://docs.insomnia.rest/assets/images/entry-page.png)
