@@ -97,3 +97,9 @@ ok      medods/internal/tokens  (cached)        coverage: 78.6% of statements
 >Для тестирования  запросов  использовал [*INSOMNIA*](https://docs.insomnia.rest/insomnia/get-started)
 
 ![ins](https://docs.insomnia.rest/assets/images/entry-page.png)
+
+**Путь запроса**
+
+    "GET" http://127.0.0.1:8080/home
+    "GET"/"POST" http://127.0.0.1:8080/user/2234520e-abe8-4f60-90c8-0d43c5f6c0f6
+    Pattern -  http://127.0.0.1:8080/user/{GUID}
